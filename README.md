@@ -1,3 +1,3 @@
 # Symox
 
-Symox ist eine (noch) sehr kleine Programmiersprache.
+Symox ist eine (noch) kleine Programmiersprache, mit der man mathematische Operationen (+, -, *, /) ausführen kann
