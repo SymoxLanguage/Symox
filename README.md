@@ -10,3 +10,6 @@ Variablen wurden hinzugefügt
 
 ## Update 1.2 (am 01.04.2022):
 Logische Operationen und Vergleiche wurden hinzugefügt
+
+## Update 1.3 (am 02.04.2022):
+If-Statements wurden hinzugefügt
