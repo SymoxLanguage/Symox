@@ -16,3 +16,6 @@ If-Statements wurden hinzugefügt
 
 ## Update 1.4 (am 02.04.2022): 
 Funktionen wurden hinzugefügt
+
+## Update 1.5 (am 02.04.2022):
+Strings wurden hinzugefügt
