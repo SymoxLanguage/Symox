@@ -25,3 +25,6 @@ Listen wurden hinzugefügt
 
 ## Update 1.7 (am 03.04.2022):
 Integrierte Funktionen wurden hinzugefügt
+
+## Update 1.8 (am 03.04.2022):
+Multi-Line-Statements wurden hinzugefügt
