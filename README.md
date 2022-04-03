@@ -19,3 +19,6 @@ Funktionen wurden hinzugefügt
 
 ## Update 1.5 (am 02.04.2022):
 Strings wurden hinzugefügt
+
+## Update 1.6 (am 03.04.2022);
+Listen wurden hinzugefügt
