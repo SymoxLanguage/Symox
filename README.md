@@ -28,3 +28,6 @@ Integrierte Funktionen wurden hinzugefügt
 
 ## Update 1.8 (am 03.04.2022):
 Multi-Line-Statements wurden hinzugefügt
+
+## Update 1.9 (am 03.04.2022):
+RETURN, CONTINUE und BREAK wurden hinzugefügt
