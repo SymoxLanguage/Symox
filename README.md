@@ -1,6 +1,6 @@
 # Symox
 
-Symox ist eine (noch) kleine Programmiersprache.
+Symox ist eine kleine Programmiersprache.
 
 ## Update 1.0 (am 31.03.2022):
 Alle mathematischen Operationen sind möglich (+, -, *, / und ^)
@@ -31,3 +31,6 @@ Multi-Line-Statements wurden hinzugefügt
 
 ## Update 1.9 (am 03.04.2022):
 RETURN, CONTINUE und BREAK wurden hinzugefügt
+
+## Update 2.0 (am 03.04.2022):
+Comments und RUN wurden hinzugefügt (letztes Update!)
